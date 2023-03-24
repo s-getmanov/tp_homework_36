@@ -1,3 +1,8 @@
+/*
+Репозиторий к задаче 
+https://github.com/s-getmanov/tp_homework_36.git
+*/
+
 #include <stdio.h>
 
 main()
